@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{5}
+Luks for dm-crypt from linux.org.
+\newblock Website.
+\newblock \url{http://chakra-linux.org/wiki/index.php/LUKS\_for\_dm-crypt}.
+
+\bibitem{openstackwiki}
+openstack.
+\newblock Website.
+\newblock \url{http://en.wikipedia.org/wiki/OpenStack}.
+
+\bibitem{4}
+Project dm-crypt.
+\newblock Website.
+\newblock \url{http://www.saout.de/misc/dm-crypt/}.
+
+\bibitem{volumeencryptionwiki}
+volumeencryption.
+\newblock Website.
+\newblock \url{https://wiki.openstack.org/wiki/VolumeEncryption}.
+
+\bibitem{7}
+E.Shen, E.Shi, and B.Waters.
+\newblock Predicate privacy in encryption systems.
+\newblock In {\em Lecture Notes in Computer Science, 2009}, volume 5444, pages
+  457--473. theory of Cryptography, 6th Theory of Cryptography Conference, TCC,
+  2009.
+
+\bibitem{1}
+Shu~Qin Ren and Khin Mi~Mi Aung.
+\newblock Ppds: Privacy preserved data sharing scheme for cloud storage.
+\newblock {\em IJACT}, 4(16), 2012.
+
+\bibitem{Ren13}
+Shu~Qin Ren, Shu~Hao Zhang, Yong~Zhen Chen, Rodel~Felipe Miguel, Ya~Jun Ha, and
+  Mi~Mi~Aung Khin.
+\newblock Empirical study of accelerating data protection for multi-tenant
+  storage.
+\newblock {\em Advances in Information Sciences and Service Sciences}, 2013.
+
+\bibitem{8}
+Y.Tang, P.~C.Lee, J.~S.Lui, and R.Perlman.
+\newblock Fade : Secure overlay cloud storage with file assured deletion.
+\newblock In {\em Proceeding of the 6th International ICST Conference on
+  Security and Privacy in Communication Networks, SecureComm}, pages 380--397,
+  2010.
+
+\end{thebibliography}

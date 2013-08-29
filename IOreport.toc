@@ -1,0 +1,36 @@
+\contentsline {chapter}{Abstract}{1}
+\contentsline {chapter}{Acknowledgement}{2}
+\contentsline {chapter}{\numberline {1}Introduction}{6}
+\contentsline {section}{\numberline {1.1}Objective}{6}
+\contentsline {section}{\numberline {1.2}Company Profile-Data Storage Institude(DSI)}{6}
+\contentsline {chapter}{\numberline {2}Project Specification}{7}
+\contentsline {section}{\numberline {2.1}Objective}{7}
+\contentsline {section}{\numberline {2.2}Background}{7}
+\contentsline {chapter}{\numberline {3}Hardware Driver Engine}{9}
+\contentsline {section}{\numberline {3.1}Preliminary Works}{9}
+\contentsline {subsection}{\numberline {3.1.1}From device mapper to device driver to FPGA}{9}
+\contentsline {subsection}{\numberline {3.1.2}Performance Related Issues}{10}
+\contentsline {section}{\numberline {3.2}High-throughput Data Protection for Multi-tenant Storage}{11}
+\contentsline {subsection}{\numberline {3.2.1}System Architecture}{11}
+\contentsline {subsection}{\numberline {3.2.2}Secure Data Asset Management on Large Scale Shared Storage System}{11}
+\contentsline {subsection}{\numberline {3.2.3}Accelerating data protection for Large shared storage}{11}
+\contentsline {subsection}{\numberline {3.2.4}Asynchronous Block Driver Design And Setup}{12}
+\contentsline {subsection}{\numberline {3.2.5}Accelerating Asynchronous Block Driver}{13}
+\contentsline {subsection}{\numberline {3.2.6}Cylinder architecture for multiple FPGA}{13}
+\contentsline {section}{\numberline {3.3}Experiment Results and Analysis}{14}
+\contentsline {subsection}{\numberline {3.3.1}Experiment Setup}{14}
+\contentsline {subsection}{\numberline {3.3.2}Comparison among software encryption, device driver with FPGA, optimized driver with FPGA}{14}
+\contentsline {section}{\numberline {3.4}Future Works}{15}
+\contentsline {chapter}{\numberline {4}Security Cloud Storage Framework}{16}
+\contentsline {section}{\numberline {4.1}Preliminary Works}{16}
+\contentsline {subsection}{\numberline {4.1.1}OpenStack}{16}
+\contentsline {paragraph}{\relax \fontsize {12}{14}\selectfont Openstack}{16}
+\contentsline {paragraph}{\relax \fontsize {12}{14}\selectfont communication}{20}
+\contentsline {subsection}{\numberline {4.1.2}Secruity Gateway(aka. proxy)}{20}
+\contentsline {subsection}{\numberline {4.1.3}Main Implementation}{21}
+\contentsline {paragraph}{\ \ volume creation, encryption volume creation:}{21}
+\contentsline {paragraph}{\ \ instance creation and volume attach:}{21}
+\contentsline {section}{\numberline {4.2}Experiment Results and Analysis}{22}
+\contentsline {subsection}{\numberline {4.2.1}Experiment Setup}{22}
+\contentsline {subsection}{\numberline {4.2.2}Comparison among other possible solution}{26}
+\contentsline {section}{\numberline {4.3}Conclusion and Future Works}{26}

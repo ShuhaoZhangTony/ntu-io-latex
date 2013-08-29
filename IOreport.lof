@@ -1,0 +1,18 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Data Protection System for Multi-tenant Storage}}{10}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Dataflow of Secure Data Access Control}}{12}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces High Throughput Data Encryption with Pipelined Asynchronous Block Cipher Driver}}{13}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Ring buffer to accelerate cipher}}{14}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Nova run instance}}{17}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces GeneralManager structure}}{18}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces GeneralService starting}}{18}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces volumeCreation-cinder}}{19}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces volumeCreation-nova}}{19}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces volumeAttach}}{20}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces GateWay Design}}{21}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces GateWay create volume}}{22}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Sequence: create volume nova to gateway to cinder}}{25}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Sequence: attach volume, nova to gateway}}{25}
